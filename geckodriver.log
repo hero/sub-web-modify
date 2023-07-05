@@ -1,0 +1,29 @@
+1688573446503	geckodriver	INFO	Listening on 127.0.0.1:60693
+1688573447016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--ignore-certificate-errors" "--ignore-certificate-errors-spki-list" "--i ... 08" "--remote-debugging-port" "49415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegV4AjJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1688573447703	Marionette	INFO	Marionette enabled
+1688573447707	Marionette	INFO	Listening on port 37109
+Read port: 37109
+console.error: "Warning: unrecognized command line flag -ignore-certificate-errors\n"
+console.error: "Warning: unrecognized command line flag -ignore-ssl-errors\n"
+console.error: "Warning: unrecognized command line flag -disable-gpu\n"
+console.error: "Warning: unrecognized command line flag -incognito\n"
+console.error: "Warning: unrecognized command line flag -user-agent\n"
+console.error: "Warning: unrecognized command line flag -proxy-server\n"
+WebDriver BiDi listening on ws://127.0.0.1:49415
+1688573447824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49415/devtools/browser/a564d7df-bc6a-4d9e-9f17-ff959adc1074
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1688573478722	Marionette	INFO	Stopped listening on port 37109
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/regions getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
